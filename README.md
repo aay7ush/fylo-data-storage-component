@@ -12,7 +12,7 @@ Building realistic projects to improve my front-end skills.
 
 ### Links
 
-- Live Site URL: [Fylo data storage component](https://article-prev1ew-component.netlify.app/)
+- Live Site URL: [Fylo data storage component](https://fylo-data-st0rage.netlify.app/)
 
 ## Built with
 
